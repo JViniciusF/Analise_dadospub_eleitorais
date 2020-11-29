@@ -7,10 +7,7 @@
 [Nayara Lorrane Santos Silveira](https://github.com/nayaralorrane) 
 
 <h2>Síntese :</h2>
-
-```
 Foi realizado uma raspagem de dados para a análise das receitas e despesas eleitorais do ano de 2020 com o intuito de verificar a quantia arrecada e também o valor gasto pelos partidos durante a campanha da eleição, baseado nos dados públicos fornecidos pelo governo no site do TSE
-```
 
 <h2>Fonte :</h2>
 
@@ -30,4 +27,4 @@ Foi realizado uma raspagem de dados para a análise das receitas e despesas elei
 
 ![](https://github.com/JViniciusF/Analise_dadospub_eleitorais/blob/main/Resultado.png)
 
-Conforme os dados supracitados é notorio que os partidos com maior popularidade tem um indice de arrecadação superior aos demais, e que, na maioria das vezes os valores totais de arrecadação sao superiores aos seus gastos declarados aos orgãos controladoes  
+Conforme os dados supracitados é notorio que os partidos com maior popularidade tem um indice de arrecadação superior aos demais, e que, na maioria das vezes os valores totais de arrecadação sao superiores aos seus gastos declarados aos orgãos controladoes, e fica inplicito, ao analisar os valores, que a arrecadação dos partidos como um todo encontrasse desproporcional e que por convenção governamental, poderia-se criar alterações no codigo de lei em relação as valores de verba partidaria 
