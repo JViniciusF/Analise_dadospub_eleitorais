@@ -12,3 +12,5 @@ Introdução
 - Seaborn
 - Numpy
 ```
+
+[[https://github.com/JViniciusF/Analise_dadospub_eleitorais/blob/main/Resultado.png]]
